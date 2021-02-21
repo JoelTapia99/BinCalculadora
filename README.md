@@ -1,0 +1,12 @@
+# BinCalculadora.
+![Imagen de la aplicación](https://github.com/JoelTapia99/BinCalculadora/blob/master/imgReamde/app.png)
+
+El proyecto ha sido generado con [Node.js](https://nodejs.org/es/) version 15.3.0.
+
+## Correr aplicación.
+
+Para correr ejecuta `npm run go`, por defecto la aplicacion escuchara en `http://localhost:3000`.
+
+## consideraciones.
+
+La carpeta *imgReadme* solo contiene imagenes para el readmi, no son relevantes para la aplicación.
