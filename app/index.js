@@ -12,6 +12,7 @@ app.set('view engine', 'ejs');
 // seteo del puerto.
 app.set('port', 3000);
 
+
 // middelware
 app.use(bodyParser.json()); // lee json's
 app.use(bodyParser.urlencoded({extended: false})); //lee cuerpos de peticiones de la url

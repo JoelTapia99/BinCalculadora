@@ -1,6 +1,5 @@
 let decimal = num => {
     let numero = num.toString();
-    console.log(numero);
     let numeroDecimal = 0;
     let extencion = numero.length;
 
