@@ -5,7 +5,7 @@ El proyecto ha sido generado con [Node.js](https://nodejs.org/es/) version 15.3.
 
 ## Correr aplicación.
 
-Para correr ejecuta `npm run go`, por defecto la aplicacion escuchara en `http://localhost:3000`.
+Para correr ejecuta `npm run go`, por defecto la aplicación escuchara en `http://localhost:3000`.
 
 ## consideraciones.
 
